@@ -1,0 +1,3 @@
+[submodule "plugins/mouse/mouse_macos/third_party/robot-cpp"]
+	path = plugins/mouse/mouse_macos/third_party/robot-cpp
+	url = https://github.com/developer239/robot-cpp

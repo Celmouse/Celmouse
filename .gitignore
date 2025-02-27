@@ -1,0 +1,21 @@
+**/.metadata
+
+/.idea
+
+**/.dart_tool
+**/.vscode
+**/build
+
+*.map
+*.p8
+*.log
+
+# FVM Version Cache
+.fvm/
+**/.env
+**/.fmv/
+.flutter-plugins
+.flutter-plugins-dependencies
+.DS_Store
+**/.DS_Store
+mobile/android/upload_certificate.pem
