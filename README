@@ -1,6 +1,6 @@
-# Slide Control with Flutter and NodeJS via WebSocket
+# Remote Mouse Controller
 
-This project allows you to control a **Slideshow** (or any other software) remotely by simulating **mouse** and **keyboard** movements through a Flutter application connected via **WebSocket** to a NodeJS server. The Flutter app uses the device's **accelerometer** and **gyroscope** sensors to detect movements, providing a smooth experience for navigating slides or performing actions remotely.
+This project allows you to control a **Mouse** remotely by simulating **mouse actions** and **keyboard** movements through a Flutter application connected via **WebSocket** to a NodeJS server. The Flutter app uses the device's **accelerometer** and **gyroscope** sensors to detect movements, providing a smooth experience for navigating slides or performing actions remotely.
 
 ## Features
 
